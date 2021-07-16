@@ -1,5 +1,3 @@
-package dz7;
-
 abstract class Shape implements ShapeName {
 
     private final String name;
